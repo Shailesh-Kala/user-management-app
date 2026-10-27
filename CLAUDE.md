@@ -7,6 +7,11 @@ Stack: Node.js + TypeScript (backend), PostgreSQL with migrations, React + MUI +
 - No co-author trailers in any commit.
 - Never squash or rewrite history.
 
+## Branches and PRs
+- Every feature/requirement I give you gets its own branch (e.g. `feat/login`) and its own PR into `main`. I review and merge; never push feature work directly to `main`.
+- Push after each task to the feature branch. Open the PR when asked or when the feature's tasks are done.
+- Start the next feature from an up-to-date `main` after I merge.
+
 ## Workflow
 1. `docs/REQUIREMENTS.md`: goal, persona, in-scope, out-of-scope WITH reasoning, assumptions, open questions. Small scope over complexity. STOP for review.
 2. `docs/ARCHITECTURE.md`: diagram, data model, API endpoints, folder structure, security / performance / reliability decisions with trade-offs.

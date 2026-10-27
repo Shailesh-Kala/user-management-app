@@ -9,7 +9,7 @@ Stack: Node.js + TypeScript (backend), PostgreSQL with migrations, React + MUI +
 
 ## Branches and PRs
 - Every feature/requirement I give you gets its own branch (e.g. `feat/login`) and its own PR into `main`. I review and merge; never push feature work directly to `main`.
-- Push after each task to the feature branch. Open the PR when asked or when the feature's tasks are done.
+- Push after each task to the feature branch. Open a draft PR at the start of the feature; mark it ready for review only when the feature is complete.
 - Start the next feature from an up-to-date `main` after I merge.
 
 ## Workflow
